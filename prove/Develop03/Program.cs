@@ -6,7 +6,7 @@ class Program
     {
         string userInput = "";
         Reference reference = new Reference("Proverbs", 3, 5, 6);
-        Scripture scripture = new Scripture(reference, "Trust in",
+        Scripture scripture = new Scripture(reference, "Trust in" +  
          "the lord with all thine understanding ");
         
 
